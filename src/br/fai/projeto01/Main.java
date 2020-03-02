@@ -15,8 +15,7 @@ public class Main {
 		int idade = 15;
 		
 		System.out.println("A idade e de " + idade+ " anos");
-		
-		
+		System.out.println("Resultado 1: " +((idade + 5)*2));
 		
 	}
 
